@@ -1,0 +1,48 @@
+.imgside{
+     width: 100%;
+     height: 600px;
+}
+
+.notification{
+
+      width: 100%;
+      height: 35px;
+}
+
+.mar{
+    text-align: center;
+}
+.navigation{
+
+    height: 60px;
+    width: 100%;
+}
+
+.search-btn{
+
+    margin-left: 90px;
+}
+
+.mem{
+    width: 100%;
+    height: 250px;
+}
+.form-required{
+    color: red;
+}
+
+.cardhi{
+    width: 100%;
+    height: 200px;
+}
+
+.grid-item img{
+    width: 100%;
+    height: auto;
+}
+
+.imgag{
+
+        width: 100%;
+        height: 250px;
+}
